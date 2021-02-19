@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### 执行脚本
 
-脚本使用命令行参数输入变量，其中手机号和密码的 32 位 MD5 值为必填字段，其余均为可选字段。
+脚本使用命令行参数输入变量，其中手机号和密码的 32 位 MD5 值为必填字段，其余均为可选字段yesyesyes。
 
 ```shell
 # python action.py -h 查看usage
